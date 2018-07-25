@@ -1,0 +1,30 @@
+C:\Users\User\Desktop\ChatClient\bin\Debug\netcoreapp2.0\ChatClient.deps.json
+C:\Users\User\Desktop\ChatClient\bin\Debug\netcoreapp2.0\ChatClient.runtimeconfig.json
+C:\Users\User\Desktop\ChatClient\bin\Debug\netcoreapp2.0\ChatClient.runtimeconfig.dev.json
+C:\Users\User\Desktop\ChatClient\bin\Debug\netcoreapp2.0\ChatClient.dll
+C:\Users\User\Desktop\ChatClient\bin\Debug\netcoreapp2.0\ChatClient.pdb
+C:\Users\User\Desktop\ChatClient\obj\Debug\netcoreapp2.0\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ChatClient\obj\Debug\netcoreapp2.0\ChatClient.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ChatClient\obj\Debug\netcoreapp2.0\ChatClient.AssemblyInfo.cs
+C:\Users\User\Desktop\ChatClient\obj\Debug\netcoreapp2.0\ChatClient.dll
+C:\Users\User\Desktop\ChatClient\obj\Debug\netcoreapp2.0\ChatClient.pdb
+C:\Users\User\Desktop\Chalishma zone\Programming\C#\Projects\Practice(Yunussov)\Mid1\ChatClient\bin\Debug\netcoreapp2.0\ChatClient.deps.json
+C:\Users\User\Desktop\Chalishma zone\Programming\C#\Projects\Practice(Yunussov)\Mid1\ChatClient\bin\Debug\netcoreapp2.0\ChatClient.runtimeconfig.json
+C:\Users\User\Desktop\Chalishma zone\Programming\C#\Projects\Practice(Yunussov)\Mid1\ChatClient\bin\Debug\netcoreapp2.0\ChatClient.runtimeconfig.dev.json
+C:\Users\User\Desktop\Chalishma zone\Programming\C#\Projects\Practice(Yunussov)\Mid1\ChatClient\bin\Debug\netcoreapp2.0\ChatClient.dll
+C:\Users\User\Desktop\Chalishma zone\Programming\C#\Projects\Practice(Yunussov)\Mid1\ChatClient\bin\Debug\netcoreapp2.0\ChatClient.pdb
+C:\Users\User\Desktop\Chalishma zone\Programming\C#\Projects\Practice(Yunussov)\Mid1\ChatClient\obj\Debug\netcoreapp2.0\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Chalishma zone\Programming\C#\Projects\Practice(Yunussov)\Mid1\ChatClient\obj\Debug\netcoreapp2.0\ChatClient.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Chalishma zone\Programming\C#\Projects\Practice(Yunussov)\Mid1\ChatClient\obj\Debug\netcoreapp2.0\ChatClient.AssemblyInfo.cs
+C:\Users\User\Desktop\Chalishma zone\Programming\C#\Projects\Practice(Yunussov)\Mid1\ChatClient\obj\Debug\netcoreapp2.0\ChatClient.dll
+C:\Users\User\Desktop\Chalishma zone\Programming\C#\Projects\Practice(Yunussov)\Mid1\ChatClient\obj\Debug\netcoreapp2.0\ChatClient.pdb
+C:\Users\User\Desktop\Chalishma zone\Programming\C#\Projects\Practice(Yunussov)\lab4(Mid1)\ChatClient\bin\Debug\netcoreapp2.0\ChatClient.deps.json
+C:\Users\User\Desktop\Chalishma zone\Programming\C#\Projects\Practice(Yunussov)\lab4(Mid1)\ChatClient\bin\Debug\netcoreapp2.0\ChatClient.runtimeconfig.json
+C:\Users\User\Desktop\Chalishma zone\Programming\C#\Projects\Practice(Yunussov)\lab4(Mid1)\ChatClient\bin\Debug\netcoreapp2.0\ChatClient.runtimeconfig.dev.json
+C:\Users\User\Desktop\Chalishma zone\Programming\C#\Projects\Practice(Yunussov)\lab4(Mid1)\ChatClient\bin\Debug\netcoreapp2.0\ChatClient.dll
+C:\Users\User\Desktop\Chalishma zone\Programming\C#\Projects\Practice(Yunussov)\lab4(Mid1)\ChatClient\bin\Debug\netcoreapp2.0\ChatClient.pdb
+C:\Users\User\Desktop\Chalishma zone\Programming\C#\Projects\Practice(Yunussov)\lab4(Mid1)\ChatClient\obj\Debug\netcoreapp2.0\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Chalishma zone\Programming\C#\Projects\Practice(Yunussov)\lab4(Mid1)\ChatClient\obj\Debug\netcoreapp2.0\ChatClient.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Chalishma zone\Programming\C#\Projects\Practice(Yunussov)\lab4(Mid1)\ChatClient\obj\Debug\netcoreapp2.0\ChatClient.AssemblyInfo.cs
+C:\Users\User\Desktop\Chalishma zone\Programming\C#\Projects\Practice(Yunussov)\lab4(Mid1)\ChatClient\obj\Debug\netcoreapp2.0\ChatClient.dll
+C:\Users\User\Desktop\Chalishma zone\Programming\C#\Projects\Practice(Yunussov)\lab4(Mid1)\ChatClient\obj\Debug\netcoreapp2.0\ChatClient.pdb
